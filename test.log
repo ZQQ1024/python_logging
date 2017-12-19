@@ -1,0 +1,2 @@
+2017-12-19 21:54:51,551 - mylogger - ERROR - logger1
+2017-12-19 21:54:51,551 - mylogger.child - DEBUG - child debug
